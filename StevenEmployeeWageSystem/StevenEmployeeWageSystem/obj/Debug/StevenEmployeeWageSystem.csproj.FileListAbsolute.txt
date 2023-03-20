@@ -1,0 +1,25 @@
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\bin\Debug\StevenEmployeeWageSystem.exe.config
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\bin\Debug\StevenEmployeeWageSystem.exe
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\bin\Debug\StevenEmployeeWageSystem.pdb
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.csprojAssemblyReference.cache
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.FormMenu.resources
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.FormDisplayEmployee.resources
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.FormInputEmployee.resources
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.Properties.Resources.resources
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.csproj.GenerateResource.cache
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.csproj.CoreCompileInputs.cache
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.exe
+D:\160421041\9b\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.pdb
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\bin\Debug\StevenEmployeeWageSystem.exe.config
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\bin\Debug\StevenEmployeeWageSystem.exe
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\bin\Debug\StevenEmployeeWageSystem.pdb
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.FormMenu.resources
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.FormDisplayEmployee.resources
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.FormInputEmployee.resources
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.Properties.Resources.resources
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.csproj.GenerateResource.cache
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.exe
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 9\StevenEmployeeWageSystem\StevenEmployeeWageSystem\obj\Debug\StevenEmployeeWageSystem.pdb
