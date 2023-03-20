@@ -1,0 +1,21 @@
+C:\Users\User\Documents\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\bin\Debug\StevenFractionalCalc.exe.config
+C:\Users\User\Documents\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\bin\Debug\StevenFractionalCalc.exe
+C:\Users\User\Documents\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\bin\Debug\StevenFractionalCalc.pdb
+C:\Users\User\Documents\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.csproj.AssemblyReference.cache
+C:\Users\User\Documents\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.Form1.resources
+C:\Users\User\Documents\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.Properties.Resources.resources
+C:\Users\User\Documents\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.csproj.GenerateResource.cache
+C:\Users\User\Documents\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.exe
+C:\Users\User\Documents\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.pdb
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\bin\Debug\StevenFractionalCalc.exe.config
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\bin\Debug\StevenFractionalCalc.exe
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\bin\Debug\StevenFractionalCalc.pdb
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.Form1.resources
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.Properties.Resources.resources
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.csproj.GenerateResource.cache
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.exe
+C:\Users\User\Documents\Kuliah Sem 2\OOP\week 3\StevenFractionalCalc\StevenFractionalCalc\obj\Debug\StevenFractionalCalc.pdb
